@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.infected {
+  border-bottom: 2px solid blue;
+}
+
+.recovered{
+  border-bottom: 2px solid green;
+}
+
+.deaths{
+  border-bottom: 2px solid red;
+}
+.hospitalized{
+    border-bottom: 2px solid purple;
+}
+.vaccinated{
+    border-bottom: 2px solid pink;
+}

@@ -1,0 +1,12 @@
+.news-item {
+    width: 350px;
+    padding: 20px;
+    font-size: 12px;
+    border: 1px solid;
+    margin-bottom: 10px;
+    box-shadow: 1px 1px #333 5px;
+}
+
+.news-img {
+    width: 300px;
+}
